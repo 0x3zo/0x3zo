@@ -21,7 +21,7 @@ I'm **[`0x3zo`](https://www.youtube.com/@0x3zoo)**, a hacker & Security Research
 <details>
   <summary>More about me</summary>
 
-- **Name**: 0x3zo
+- **Name**: ABDELAZIZ
 - **From**: Morocco
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
